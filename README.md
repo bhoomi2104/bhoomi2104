@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhoomijoshi200421@gmail.com)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=32&fontAlignY=38&desc=Full%20Stack%20Development%20%7C%20Data%20Pipelines%20%7C%20AI%20%26%20Analytics&descAlignY=58&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=32&fontAlignY=38&desc=Full%20Stack%20Development%20%7C%20Data%20Pipelines%20%7C%20AI%20and%20Analytics&descAlignY=58&descAlign=50" width="100%"/>
 </p>
 
 </div>
@@ -49,4 +49,15 @@
 
 ---
 
+### 📊 GitHub Activity
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhoomi2104&show_icons=true&theme=tokyonight&hide_border=true" height="155" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomi2104&layout=compact&theme=tokyonight&hide_border=true" height="155" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%"/>
+</p>
