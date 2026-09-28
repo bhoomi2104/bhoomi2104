@@ -52,7 +52,6 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=bhoomi2104&show_icons=true&theme=tokyonight&hide_border=true" height="155" alt="GitHub Stats" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bhoomi2104&layout=compact&theme=tokyonight&hide_border=true" height="155" alt="Top Languages" />
 </p>
 
