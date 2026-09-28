@@ -52,12 +52,10 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhoomi2104&show_icons=true&theme=tokyonight&hide_border=true" height="155" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomi2104&layout=compact&theme=tokyonight&hide_border=true" height="155" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=bhoomi2104&show_icons=true&theme=tokyonight&hide_border=true" height="155" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bhoomi2104&layout=compact&theme=tokyonight&hide_border=true" height="155" alt="Top Languages" />
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%"/>
+  <img src="https://activity-graph.vercel.app/graph?username=bhoomi2104&theme=tokyonight&hide_border=true&area=true" width="90%" alt="Contribution Graph" />
 </p>
