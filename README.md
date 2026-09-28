@@ -61,17 +61,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomi2104&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </div>
 
-<br/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=bhoomi2104&theme=tokyonight&hide_border=true" alt="Bhoomi's GitHub Streak" />
-</div>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%"/>
-</p>
 
 <!--
 **bhoomi2104/bhoomi2104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
