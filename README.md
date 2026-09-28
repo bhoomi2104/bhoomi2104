@@ -49,15 +49,4 @@
 
 ---
 
-### 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhoomi2104&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="Bhoomi's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomi2104&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-</div>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%"/>
-</p>
